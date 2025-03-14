@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://becey8hsyy0ug"]
+
+[node name="Arrow" type="Node2D"]
+
+[node name="ply" type="Polygon2D" parent="."]
+rotation = -1.5708
+scale = Vector2(0.2, 0.2)
+color = Color(1, 0, 0, 1)
+polygon = PackedVector2Array(0, -67, -68, 54, -1, 33, 66, 53)
+uv = PackedVector2Array(-1, -64, -70, 54, 3, 35, 79, 56)

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\anake_card\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|d:\\document\\anake_card\\script\\listscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|solutionrelative:script\\listscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|d:\\document\\anake_card\\script\\cardstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|solutionrelative:script\\cardstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|d:\\document\\anake_card\\script\\cardscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|solutionrelative:script\\cardscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|d:\\document\\anake_card\\script\\cardloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|solutionrelative:script\\cardloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|d:\\document\\anake_card\\attack_effect\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|solutionrelative:attack_effect\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|d:\\document\\anake_card\\script\\abstract\\lifenode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC50B5F-CC5D-40C8-B397-EA0872FBCBE6}|anake_card.csproj|solutionrelative:script\\abstract\\lifenode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "D:\\Document\\anake_card\\attack_effect\\Effect.cs",
+              "RelativeDocumentMoniker": "attack_effect\\Effect.cs",
+              "ToolTip": "D:\\Document\\anake_card\\attack_effect\\Effect.cs",
+              "RelativeToolTip": "attack_effect\\Effect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:16:24.604Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListScript.cs",
+              "DocumentMoniker": "D:\\Document\\anake_card\\script\\ListScript.cs",
+              "RelativeDocumentMoniker": "script\\ListScript.cs",
+              "ToolTip": "D:\\Document\\anake_card\\script\\ListScript.cs",
+              "RelativeToolTip": "script\\ListScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:02:50.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardStateManager.cs",
+              "DocumentMoniker": "D:\\Document\\anake_card\\script\\CardStateManager.cs",
+              "RelativeDocumentMoniker": "script\\CardStateManager.cs",
+              "ToolTip": "D:\\Document\\anake_card\\script\\CardStateManager.cs",
+              "RelativeToolTip": "script\\CardStateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:59:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardLoader.cs",
+              "DocumentMoniker": "D:\\Document\\anake_card\\script\\CardLoader.cs",
+              "RelativeDocumentMoniker": "script\\CardLoader.cs",
+              "ToolTip": "D:\\Document\\anake_card\\script\\CardLoader.cs",
+              "RelativeToolTip": "script\\CardLoader.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA0wA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:03:20.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardScript.cs",
+              "DocumentMoniker": "D:\\Document\\anake_card\\script\\CardScript.cs",
+              "RelativeDocumentMoniker": "script\\CardScript.cs",
+              "ToolTip": "D:\\Document\\anake_card\\script\\CardScript.cs",
+              "RelativeToolTip": "script\\CardScript.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAywGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:19:21.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LifeNode2D.cs",
+              "DocumentMoniker": "D:\\Document\\anake_card\\script\\abstract\\LifeNode2D.cs",
+              "RelativeDocumentMoniker": "script\\abstract\\LifeNode2D.cs",
+              "ToolTip": "D:\\Document\\anake_card\\script\\abstract\\LifeNode2D.cs",
+              "RelativeToolTip": "script\\abstract\\LifeNode2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:05:18.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

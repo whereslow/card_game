@@ -1,0 +1,264 @@
+[
+	{
+		"id": "1",
+		"name": "士兵",
+		"symbol": "any",
+		"description": "",
+		"life": 10,
+		"attack": 3,
+		"type": "guard"
+	},
+	{
+		"id": "2",
+		"name": "卫士",
+		"symbol": "any",
+		"description": "每回合恢复1生命",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "3",
+		"name": "恢复",
+		"symbol": "any",
+		"description": "使指定的1个单独卡牌回复7点生命值",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "4",
+		"name": "获取",
+		"symbol": "any",
+		"description": "从发牌区抽取2张卡牌",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "5",
+		"name": "伤害",
+		"symbol": "any",
+		"description": "对1个指定卡牌造成8点伤害",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "6",
+		"name": "生产与剥削",
+		"symbol": "方片",
+		"description": "基础效果: 接下来敌对方即将抽取的3张牌会被销毁并直接回归牌库\n命运效果: 抽取一张牌,下一回合轮到你时将多抽取两张牌",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "7",
+		"name": "神圣赐福",
+		"symbol": "红桃",
+		"description": "基础效果: 选中的1张卡牌将驱散所有减益效果,恢复至满血\n命运效果: 目标卡牌将增加10点血量上限\n",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "8",
+		"name": "丰收庆典",
+		"symbol": "梅花",
+		"description": "基础效果: 对所有在场的手牌进行当前回合3点生命值的治疗\n命运效果: 所有己方在场的手牌+1攻击力,之后的三个回合1点生命值的治疗",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "9",
+		"name": "大军过境",
+		"symbol": "黑桃",
+		"description": "基础效果: 对所有敌方手牌造成3点伤害\n命运效果: 减少所有敌方手牌1点攻击力",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "10",
+		"name": "大军过境",
+		"symbol": "黑桃",
+		"description": "基础效果: 对所有敌方手牌造成3点伤害\n命运效果: 减少所有敌方手牌1点攻击力",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	}
+	,
+	{
+		"id": "11",
+		"name": "大军过境",
+		"symbol": "黑桃",
+		"description": "基础效果: 对所有敌方手牌造成3点伤害\n命运效果: 减少所有敌方手牌1点攻击力",
+		"life": 1,
+		"attack": 1,
+		"type": "effect"
+	},
+	{
+		"id": "12",
+		"name": "幸运卫士",
+		"symbol": "方片",
+		"description": "基础效果: 抽中与该牌数字相同的卡牌时抽一张牌\n命运效果: 当打出与该牌数字相同的牌时,抽一张牌",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "13",
+		"name": "战场堡垒",
+		"symbol": "方片",
+		"description": "基础效果: 无\n命运效果: 血量增加7",
+		"life": 18,
+		"attack": 1,
+		"type": "guard"
+	},
+	{
+		"id": "14",
+		"name": "拾荒者",
+		"symbol": "方片",
+		"description": "基础效果: 无\n命运效果: 阵亡时随机从发牌区抽一张牌",
+		"life": 5,
+		"attack": 8,
+		"type": "guard"
+	},
+	{
+		"id": "15",
+		"name": "战地医生",
+		"symbol": "红桃",
+		"description": "基础效果: 选择指定的一张手牌恢复2点生命值\n命运效果: 每回合随机给一张己方手牌恢复1生命值",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "16",
+		"name": "神圣先锋",
+		"symbol": "红桃",
+		"description": "基础效果: 无\n命运效果: 己方对其的治疗和强化效果将会为150%",
+		"life": 5,
+		"attack": 8,
+		"type": "guard"
+	},
+	{
+		"id": "17",
+		"name": "神圣牧师",
+		"symbol": "红桃",
+		"description": "基础效果: 每回合对所有在场手牌,无论敌我,恢复1生命\n命运效果: 己方卡牌攻击力+1,并且击杀敌对卡牌恢复4生命",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "18",
+		"name": "民兵号召者",
+		"symbol": "梅花",
+		"description": "基础效果: 被击杀时召唤一个相同花色和数字的普通士兵\n命运效果: 每回合召唤出己方未受伤的卡牌数量的三分之一的士兵",
+		"life": 10,
+		"attack": 1,
+		"type": "guard"
+	},
+	{
+		"id": "19",
+		"name": "起义将领",
+		"symbol": "梅花",
+		"description": "基础效果: 无\n命运效果: 击杀敌方卡牌,使得所有友方卡牌恢复2点生命",
+		"life": 10,
+		"attack": 6,
+		"type": "guard"
+	},
+	{
+		"id": "20",
+		"name": "起义军领袖",
+		"symbol": "梅花",
+		"description": "基础效果: 无\n命运效果: 每回合回复友方卡牌1生命值,死亡时友方卡牌攻击力+1",
+		"life": 10,
+		"attack": 6,
+		"type": "guard"
+	},
+	{
+		"id": "21",
+		"name": "军团刺客",
+		"symbol": "黑桃",
+		"description": "基础效果: 造成2点伤害\n命运效果: 增加至造成5点伤害",
+		"life": 10,
+		"attack": 3,
+		"type": "guard"
+	},
+	{
+		"id": "22",
+		"name": "军团战刃",
+		"symbol": "黑桃",
+		"description": "基础效果: 完成击杀增加2点生命\n命运效果: 完成击杀额外攻击力+2",
+		"life": 12,
+		"attack": 6,
+		"type": "guard"
+	},
+	{
+		"id": "23",
+		"name": "军团指挥",
+		"symbol": "黑桃",
+		"description": "基础效果: 己方手牌攻击力+2\n命运效果: 己方任意卡牌完成击杀,所有卡牌攻击力+1",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "24",
+		"name": "纳米保护",
+		"symbol": "科技",
+		"description": "基础效果: 对己方卡牌提供一个护盾,抵消1次攻击\n命运效果: 护盾额外提供1次攻击抵消",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "25",
+		"name": "精准光刃",
+		"symbol": "科技",
+		"description": "基础效果: 对敌方手牌攻击时减少2点被敌方造成的伤害\n命运效果: 免疫攻击敌方手牌被造成的伤害",
+		"life": 10,
+		"attack": 5,
+		"type": "guard"
+	},
+	{
+		"id": "26",
+		"name": "量子计算",
+		"symbol": "科技",
+		"description": "基础效果: 所有己方卡牌造成的溢出的伤害将随机溅射到被攻击的卡牌周围的卡牌上\n命运效果: 对地方造成的溢出伤害将溅射到被攻击的卡牌周围的两个卡牌上",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "27",
+		"name": "自噬黑洞",
+		"symbol": "魔法",
+		"description": "基础效果: 被击杀时对敌方造成被击杀时的造成的伤害\n命运效果: 被击杀时移除发动攻击的卡牌",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	},
+	{
+		"id": "28",
+		"name": "不死蔷薇",
+		"symbol": "魔法",
+		"description": "基础效果: 被击杀时,攻击力-1并重生\n命运效果: 被击杀时攻击力-1,直到攻击力为0时才被移除",
+		"life": 4,
+		"attack": 4,
+		"type": "guard"
+	},
+	{
+		"id": "29",
+		"name": "白昼光环",
+		"symbol": "魔法",
+		"description": "基础效果: 所有敌对卡牌攻击力-1\n命运效果: 发动攻击或被攻击时都会使作用卡牌方的攻击力-1",
+		"life": 15,
+		"attack": 2,
+		"type": "guard"
+	}
+]
